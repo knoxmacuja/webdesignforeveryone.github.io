@@ -1,2 +1,2 @@
-# webdesignforeveryone.github.io
-the website for web design for everyone
+# webdesign4everyone.github.io
+the web designer website for everyone
